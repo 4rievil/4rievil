@@ -15,9 +15,9 @@
  * @param {string} hobbies - writing, reading, watching tv shows &
 playing music.
  * @param {string} education - computer science student
-at universidade Federal da Paraíba.
- * @throws {Punch} To any and all bugs.
- * @returns {Object} Isabella.
+at universidade federal da paraíba.
+ * @throws {Punch} to any and all bugs.
+ * @returns {Object} isabella.
  */
 ```
 </div>
